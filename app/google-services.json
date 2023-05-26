@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "975671234689",
+    "firebase_url": "https://fairmountbageldatabase-default-rtdb.firebaseio.com",
+    "project_id": "fairmountbageldatabase",
+    "storage_bucket": "fairmountbageldatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975671234689:android:c02e5361aac7667b45bd80",
+        "android_client_info": {
+          "package_name": "com.example.fairmountbagelmobileapplicationproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5qLhXErMdHMxf-2w3ofy7Ge4QQU0Kw-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

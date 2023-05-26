@@ -6,15 +6,55 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="@string/menu_home" />
+            android:icon="@drawable/ic_home"
+            android:title="@string/sidebar_home" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="@string/menu_gallery" />
+            android:id="@+id/nav_manage_account"
+            android:icon="@drawable/ic_manage_accounts"
+            android:title="@string/sidebar_manage_accounts" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_slideshow" />
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_login"
+            android:title="@string/sidebar_login" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="@string/sidebar_profile" />
+        <item
+            android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notification"
+            android:title="@string/sidebar_notification" />
+        <item
+            android:id="@+id/nav_manage_schedule"
+            android:icon="@drawable/ic_manage_schedule"
+            android:title="@string/sidebar_manage_schedule" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_schedule"
+            android:title="@string/sidebar_schedule" />
+        <item
+            android:id="@+id/nav_request_schedule"
+            android:icon="@drawable/ic_request_schedule"
+            android:title="@string/sidebar_request_schedule" />
+        <item
+            android:id="@+id/nav_edit_home"
+            android:icon="@drawable/ic_edit_home"
+            android:title="@string/sidebar_edit_home" />
+        <item
+            android:id="@+id/nav_post_to_home"
+            android:icon="@drawable/ic_post_to_home"
+            android:title="@string/sidebar_post_home" />
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/ic_scan"
+            android:title="@string/sidebar_scanning" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/sidebar_logout" />
+        <item
+            android:id="@+id/nav_back"
+            android:icon="@drawable/ic_back"
+            android:title="@string/sidebar_back" />
     </group>
 </menu>
